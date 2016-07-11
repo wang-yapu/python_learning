@@ -2,8 +2,7 @@
 # Filename: backup_ver3.py
 
 import os,time
-
-source = ['/Users/wyp/python_demo/if.py','/Users/wyp/python_demo/using_name.py']
+ = ['/Users/wyp/python_demo/if.py','/Users/wyp/python_demo/using_name.py']
 target_dir = '/Users/wyp/'
 
 today = target_dir + time.strftime('%Y%m%d')
